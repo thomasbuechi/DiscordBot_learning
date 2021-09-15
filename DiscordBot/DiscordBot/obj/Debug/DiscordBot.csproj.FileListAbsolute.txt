@@ -1,0 +1,6 @@
+F:\GitHub\DiscordBot_learning\DiscordBot\DiscordBot\bin\Debug\DiscordBot.exe
+F:\GitHub\DiscordBot_learning\DiscordBot\DiscordBot\bin\Debug\DiscordBot.pdb
+F:\GitHub\DiscordBot_learning\DiscordBot\DiscordBot\obj\Debug\DiscordBot.csprojAssemblyReference.cache
+F:\GitHub\DiscordBot_learning\DiscordBot\DiscordBot\obj\Debug\DiscordBot.csproj.CoreCompileInputs.cache
+F:\GitHub\DiscordBot_learning\DiscordBot\DiscordBot\obj\Debug\DiscordBot.exe
+F:\GitHub\DiscordBot_learning\DiscordBot\DiscordBot\obj\Debug\DiscordBot.pdb
